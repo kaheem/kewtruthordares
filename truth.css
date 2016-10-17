@@ -1,0 +1,113 @@
+html{
+  background:hotpink;
+}
+#td {
+   content:url("images/td.png");
+margin :auto;
+ cursor: url("images/td.png") 25 15, auto;
+}​
+
+body{
+	margin: 0;
+	padding: 0;
+	background: #fff;
+
+	color: #fff;
+	font-family: Arial;
+	font-size: 12px;
+}
+
+.Details input{
+clear: both;
+display:block;
+	width: 250px;
+	height: 30px;
+	background: transparent;
+	border: 1px solid rgba(255,255,255,0.6);
+	border-radius: 2px;
+	color: #fff;
+	font-family: 'Exo', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	padding: 4px;
+   text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+outline: none;
+	border: 1px solid rgba(255,255,255,0.9);
+margin: auto;
+margin-bottom:10px;
+
+  padding: 0px;
+  border:1px solid blue;
+}
+#gender
+{
+clear: both;
+display:block;
+	width: 100px;
+	height: 30px;
+	background: transparent;
+	border: 1px solid rgba(255,255,255,0.6);
+	border-radius: 2px;
+	color: #fff;
+	font-family: 'Exo', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	padding: 4px;
+   text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+outline: none;
+	border: 1px solid rgba(255,255,255,0.9);
+margin: auto;
+margin-bottom:10px;
+ width: 240px;
+   height: 34px;
+   overflow: hidden;
+   background: transparent url(new_arrow.png) no-repeat right #ddd;
+  padding: 0px;
+
+}
+
+
+
+.container {
+ width: 780px;
+        background:url("images/tdbk.jpg") no-repeat center top;
+        margin: 0 auto;
+  margin: 110px auto;
+ 
+  height: 1060px; 
+  -webkit-border-radius: 8px/7px; 
+  -moz-border-radius: 8px/7px; 
+  border-radius: 8px/7px; 
+
+  -webkit-box-shadow: 1px 2px 5px rgba(0,0,0,.31); 
+  -moz-box-shadow: 1px 2px 5px rgba(0,0,0,.31); 
+  box-shadow: 1px 2px 5px rgba(0,0,0,.31); 
+  border: solid 1px #cbc9c9;
+}
+h1 {
+ margin-top: 50;
+    color: Blue;
+    text-shadow: 0 0 5px #A5F1FF, 0 0 10px #A5F1FF,
+             0 0 20px #A5F1FF, 0 0 30px #A5F1FF,
+             0 0 40px #A5F1FF;
+    text-align: center;
+ font-size:40px;
+
+}
+h2 {
+ margin-top: 50;
+    color: #FFBF00;
+    text-shadow: 0 0 5px #A5F1FF, 0 0 10px #A5F1FF,
+             0 0 20px #A5F1FF, 0 0 30px #A5F1FF,
+             0 0 40px #A5F1FF;
+    text-align: center;
+ font-size:20px;
+}
+
+
+form {
+   margin :auto;
+    text-align: center;
+	text-shadow: 0 1px 0 #fff;
+	width: 600px;
+}
