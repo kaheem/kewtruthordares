@@ -2,9 +2,9 @@ html{
   background:hotpink;
 }
 #td {
-   content:url("images/td.png");
+   content:url("td.png");
 margin :auto;
- cursor: url("images/td.png") 25 15, auto;
+ cursor: url("td.png") 25 15, auto;
 }​
 
 body{
@@ -70,7 +70,7 @@ margin-bottom:10px;
 
 .container {
  width: 780px;
-        background:url("images/tdbk.jpg") no-repeat center top;
+        background:url("tdbk.jpg") no-repeat center top;
         margin: 0 auto;
   margin: 110px auto;
  
